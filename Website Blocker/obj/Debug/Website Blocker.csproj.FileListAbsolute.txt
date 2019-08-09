@@ -1,0 +1,9 @@
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\bin\Debug\Website Blocker.exe.config
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\bin\Debug\Website Blocker.exe
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\bin\Debug\Website Blocker.pdb
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\obj\Debug\Website Blocker.csprojResolveAssemblyReference.cache
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\obj\Debug\Website_Blocker.Form1.resources
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\obj\Debug\Website_Blocker.Properties.Resources.resources
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\obj\Debug\Website Blocker.csproj.GenerateResource.Cache
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\obj\Debug\Website Blocker.exe
+c:\users\debojyoti singha\documents\visual studio 2015\Projects\Website Blocker\Website Blocker\obj\Debug\Website Blocker.pdb
